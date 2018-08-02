@@ -1,0 +1,29 @@
+<h1> {
+	text-align: center;
+}
+
+<h2> {
+	text-align: center;
+}
+
+body {
+	background-color: #ffcccc;
+	color: #6600cc;
+
+
+}
+
+img{
+		  width: 300px;
+	}
+
+li{
+  color: #9999ff;
+  width: 80px;
+  display: block;
+  text-align: center;
+}
+
+li:hover{
+  background-color: black;
+}
